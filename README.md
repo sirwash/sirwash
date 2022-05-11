@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirwash
+- 👋 Hi there, I’m Washington
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Product Design, UI/UX
 - 💞️ I’m looking to collaborate on Product Design Projects
