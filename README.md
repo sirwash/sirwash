@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Washington
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Product Design, UI/UX
-- 💞️ I’m looking to collaborate on Product Design Projects
+- 🌱 I’m currently learning Data Analytics and Visualization using Python, SQL, Tableu and Power Bi
+- 💞️ I’m looking to collaborate on Projects that would help boost my skill level and broaden my knowledge
 - 📫 How to reach me https://www.linkedin.com/in/washington-ebie-b2a250a4/
 
 <!---
